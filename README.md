@@ -1,3 +1,5 @@
+![image](https://github.com/aakashr21/Telecom-churn-EDA/assets/88080322/d403b04e-f377-4c1b-8042-771ecc2b1dd0)
+
 # Telecom Churn Analysis
 
 This project aims to analyze the churn rate of a telecom company, Orange S.A., and identify the factors that contribute to customer churn. The dataset used in this analysis is the Orange Telecom's Churn Dataset, which includes cleaned customer activity data and a churn label indicating whether a customer cancelled their subscription.
